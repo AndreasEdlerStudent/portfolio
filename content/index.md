@@ -6,6 +6,8 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
+Här är lite information om jag som gjort sidan!
 
-This is a sample home page written in markdown with some frontmatter defined.
+Mitt namn är Andreas Edler. Jag är född och uppvuxen i Östersund men hamnade till slut i Skövde där jag bor med min sambo.
+
+Mina hobbies, förutom spelskapande, är att spela rollspel, kortspel och brädspel med vänner. Jag föredrar samarbetsspel framför rena tävlingsspel!
