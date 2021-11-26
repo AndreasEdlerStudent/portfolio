@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-https://github.com/AndreasEdlerStudent/portfolio
-=======
-https://github.com/AndreasEdlerStudent/portfolio
->>>>>>> dfcb72eb41bde8eec0c562d0c8c289e3d80117cd
