@@ -1,5 +1,5 @@
 ---
-Logo: image/leaf_256x256.png
+Logo: image/ChainedOne.png
 Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
