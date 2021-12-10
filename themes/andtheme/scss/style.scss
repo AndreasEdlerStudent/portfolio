@@ -1,0 +1,26 @@
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+$base-color: #141629;
+
+@import '../../shared/scss/base';
+
+@import url('https://fonts.googleapis.com/css2?family=Alike+Angular&family=Work+Sans&display=swap');
+
+* {
+    font-family: 'Alike Angular',
+    serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Work Sans',
+    sans-serif;
+}
